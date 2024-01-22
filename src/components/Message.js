@@ -1,5 +1,5 @@
-import bot from "../src/icons/bot.png";
-import user from "../src/icons/user.png";
+import bot from "../icons/bot.png";
+import user from "../icons/user.png";
 
 import styles from "./Message.module.css";
 
